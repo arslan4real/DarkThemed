@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Oct 2023 10:49:24 at https://theme.dsngrid.com/blackdsn/dark/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://theme.dsngrid.com/blackdsn/dark/ -O1 "C:\My Web Sites\Dar" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:51:12	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/work-col-3.html (from https://theme.dsngrid.com/blackdsn/dark/)
+10:51:12	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/home.html (from https://theme.dsngrid.com/blackdsn/dark/)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/about.html (from https://theme.dsngrid.com/blackdsn/dark/personal.html)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/work-card-5.html (from https://theme.dsngrid.com/blackdsn/dark/photographer.html)
+10:51:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://theme.dsngrid.com/blackdsn/dark/assets/img/portfolio/project4/3.jpg (from https://theme.dsngrid.com/blackdsn/dark/project-4.html)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/single.html (from https://theme.dsngrid.com/blackdsn/dark/stories.html)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-brands-400.eot (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-brands-400.eot? (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-brands-400.ttf (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-brands-400.svg (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-regular-400.eot (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-regular-400.eot? (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-regular-400.ttf (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-regular-400.svg (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-solid-900.eot (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-solid-900.eot? (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-solid-900.ttf (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+10:51:39	Error: 	"Not Found" (404) at link https://theme.dsngrid.com/blackdsn/dark/assets/fonts/fa-solid-900.svg (from https://theme.dsngrid.com/blackdsn/dark/assets/css/plugins/fontawesome-all.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 16 seconds : 197 links scanned, 178 files written (22441905 bytes overall) [17881246 bytes received at 131479 bytes/sec], 5803534 bytes transferred using HTTP compression in 66 files, ratio 19%, 4.8 requests per connection
+(17 errors, 1 warnings, 0 messages)
